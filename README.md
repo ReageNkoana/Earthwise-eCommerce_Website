@@ -34,7 +34,7 @@ Earthwise is an eco-friendly e-commerce website built with ASP.NET, Visual Studi
    cd Earthwise
 Open the project in Visual Studio.
 
-(Any additional installation steps specific to your project)
+  ```
 
 Running the Application
 Run the WCF Service:
@@ -52,7 +52,10 @@ Access the website at the specified URL (e.g., http://localhost:5000).
 Usage
 Launch the application in Visual Studio.
 Explore the product catalog, add items to the cart, and proceed to checkout (Note: Checkout functionality is still in progress).
-(Any other usage instructions specific to your project)
+
 Work in Progress
 The checkout functionality is currently under development.
 Contributions and feedback are welcome as we work towards completing the checkout process.
+
+#note
+difficulties uploading the assets folder because it was too large to be processed by github
